@@ -1,0 +1,8 @@
+**#INTRODUCTION**
+In this tic tac toe on c, both players must enter a particular number one to nine based on the grid position in order to make a mark X or O. The tic tac toe program in c 3×3 winner will be the first player to successfully position three of their marks in a horizontal, vertical, or diagonal) row.
+
+**#RULES FOR TIC-TAC-TOE**
+-The game is played on a grid that's 3 squares by 3 squares.
+-You are X, your friend (or the computer in this case) is O. Players take turns putting their marks in empty squares.
+-The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.
+-When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
